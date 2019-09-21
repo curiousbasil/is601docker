@@ -1,13 +1,13 @@
 
 
+
 Alpha
 Beta
-Theta
-Omega
 Epsilon
-Sigma
 Mew 
+Omega
 Phi
 Pi
+Sigma
+Theta
 Zeta
-
