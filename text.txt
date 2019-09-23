@@ -2,4 +2,6 @@
 So lets write some code RIGHT NOW! 
 
 Heres a second one lets test push this 
+OK OK fine fine
+we're just testing but its good practice
 
